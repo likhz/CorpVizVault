@@ -46,5 +46,22 @@ This visualization represents different aspects of a company as follows
 -2nd visualization represents a pie chart Profit by sub-category and can be seen that Binders has got most profit.
 -3rd visualization represents a list of products and category 
 
+> Summary of sales of different countires
+![image](https://github.com/likhz/CorpVizVault/assets/98212542/c309bca9-c943-4893-8427-df05850a5915)
+
+This visualization represents different aspects of a company as follows 
+-1st visualization represents map of country and units sold.
+-2nd visualization represents a line graph by profit with gross sales with respect to year and we can see that in the year 2014 gross sales have reached its peaks.
+-3rd visualization represents a bar graph with sum of profit by product, it is shown that the product paseo has got most of the profit.
+-4th visualization represents a line graph Profit by gross sales and year and we can see that in the year 2014 gross sales have reached its peaks.
+
+> Visualization of number of insurance company in india based on various parameters
+![image](https://github.com/likhz/CorpVizVault/assets/98212542/a2538023-a780-4d88-bbfd-0c82b2b350f5)
+
+This visualization represents various aspects of a companies as follows 
+-1st visualization represents a bar graph of the count of companies in India with respect to sector. which shows that number of companies in private sector are more compared to companies in public sector.
+-2nd visualization represents a bar graph of the count of companies in India based on the type of the company, showing that the companies of type general and life are in more number compared to other type.
+
+> Week days sales report of a company
 
 
